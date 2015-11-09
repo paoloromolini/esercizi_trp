@@ -1,0 +1,4 @@
+[
+     { "id": 1,  "audio": "do.mp3", "nota": "Do", "modo": "Maggiore" , "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Do_Mayor_armadura.png" },
+     { "id": 2,  "audio": "re.mp3", "annotaswer": "Re", "modo": "Maggiore", "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/D_Major_key_signature.png" },
+]
